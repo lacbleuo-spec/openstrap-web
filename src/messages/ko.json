@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": {
+      "planner": "플래너",
+      "users": "사용자",
+      "features": "기능",
+      "download": "다운로드"
+    },
+    "downloadApp": "앱 다운로드"
+  },
+  "hero": {
+    "badge": "Openstrap의 주요 프로젝트",
+    "title": {
+      "line1": "주간 목표를",
+      "line2": "매일의 실행으로."
+    },
+    "description": "Weekly Goal-Based Planner는 목표를 세우는 데서 끝나지 않고, 주간 목표를 요일별 실행 계획으로 나누어 실제로 실천할 수 있도록 돕는 목표 실행 관리 서비스입니다.",
+    "openWebApp": "웹 앱 열기",
+    "downloadMobileApp": "모바일 앱 다운로드",
+    "companyDescription": "Openstrap은 애플리케이션 소프트웨어를 개발하고 공급합니다. Weekly Goal-Based Planner는 사용자가 세운 목표를 매일 실행 가능한 계획으로 바꾸도록 돕는 Openstrap의 주요 서비스입니다."
+  },
+  "trustedBy": {
+    "title": "주요 기술 기업을 목표로 준비하는 사람들이 사용하고 있습니다.",
+    "disclaimer": "회사명은 공식 파트너십, 보증 또는 고객 관계를 의미하지 않습니다."
+  },
+  "features": {
+    "eyebrow": "목표 실행 관리 서비스",
+    "title": "목표를 세우는 데서 끝나지 않도록.",
+    "description": "주간 목표를 일간 실행 계획으로 나누고, 시간 알림과 삭제 잠금, 달성률 추적을 통해 끝까지 실천하도록 돕습니다.",
+    "items": {
+      "weeklyGoalPlanning": {
+        "title": "주간 목표 중심 계획",
+        "desc": "이번 주에 달성하고 싶은 목표를 먼저 정리해 한 주의 방향을 세웁니다. 하루 단위 할 일보다 큰 목표를 기준으로 계획을 시작할 수 있습니다."
+      },
+      "dailyGoalBreakdown": {
+        "title": "일간 실행 계획 분배",
+        "desc": "주간 목표를 요일별 실행 항목으로 나누어 매일 무엇을 해야 하는지 명확하게 만듭니다. 큰 목표를 실제로 실행 가능한 하루 계획으로 바꿔줍니다."
+      },
+      "copyGoals": {
+        "title": "요일별 목표 복사",
+        "desc": "주간 목표를 원하는 요일에 빠르게 복사해 반복 입력의 번거로움을 줄입니다. 모든 요일, 선택한 요일, 다음 주 계획으로도 이어서 배포할 수 있습니다."
+      },
+      "timeReminders": {
+        "title": "실행 시간과 알림",
+        "desc": "각 일간 목표에 실행 시간을 지정하고 알림을 설정할 수 있습니다. 목표를 단순한 목록이 아니라 실제 하루 일정 안에 배치된 실행 계획으로 만들어줍니다."
+      },
+      "goalLock": {
+        "title": "목표 삭제 잠금",
+        "desc": "중요한 목표는 쉽게 삭제하지 못하도록 잠글 수 있습니다. 순간적인 귀찮음이나 포기하고 싶은 마음에 목표를 지우지 않도록 스스로 정한 약속을 지켜줍니다."
+      },
+      "progressTracking": {
+        "title": "달성률 추적",
+        "desc": "완료한 목표를 기준으로 이번 주 실행 상태를 확인할 수 있습니다. 단순 체크를 넘어 목표가 실제로 얼마나 실행되고 있는지 한눈에 볼 수 있습니다."
+      },
+      "somedayGoals": {
+        "title": "언젠가 목표와 계획",
+        "desc": "지금 당장 실행하지 않을 아이디어와 장기 목표를 따로 보관할 수 있습니다. 이번 주 계획과 미래 계획을 분리해 좋은 목표를 잃어버리지 않게 도와줍니다."
+      },
+      "crossDeviceSync": {
+        "title": "자동 동기화",
+        "desc": "모바일과 웹 어디서든 같은 목표 상태를 이어서 관리할 수 있습니다. 이동 중에는 스마트폰으로, 작업 중에는 웹에서 끊김 없이 목표를 확인하고 수정할 수 있습니다."
+      },
+      "aiGoalPlanning": {
+        "title": "AI 목표 설계 지원",
+        "desc": "막연한 목표를 입력하면 실행 방법과 현실적인 일간 계획을 구체화할 수 있도록 도와줍니다. 목표를 세우는 데 익숙하지 않은 사용자도 바로 시작할 수 있습니다."
+      }
+    }
+  },
+  "cta": {
+    "title": "목표를 세웠다면, 이제 실행할 차례입니다.",
+    "description": "Weekly Goal-Based Planner로 이번 주 목표를 매일 실천 가능한 계획으로 바꿔보세요.",
+    "appStoreSmall": "Download on the",
+    "appStore": "App Store",
+    "appStoreAria": "App Store에서 다운로드",
+    "googlePlaySmall": "GET IT ON",
+    "googlePlay": "Google Play",
+    "googlePlayAria": "Google Play에서 받기"
+  }
+}

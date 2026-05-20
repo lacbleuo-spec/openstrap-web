@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": {
+      "planner": "Planificador",
+      "users": "Usuarios",
+      "features": "Funciones",
+      "download": "Descargar"
+    },
+    "downloadApp": "Descargar app"
+  },
+  "hero": {
+    "badge": "Un proyecto principal de Openstrap",
+    "title": {
+      "line1": "Convierte tus metas semanales",
+      "line2": "en ejecución diaria."
+    },
+    "description": "Weekly Goal-Based Planner es un servicio de gestión de ejecución de objetivos que va más allá de establecer metas. Ayuda a convertir objetivos semanales en planes de acción diarios para que realmente puedas cumplirlos.",
+    "openWebApp": "Abrir app web",
+    "downloadMobileApp": "Descargar app móvil",
+    "companyDescription": "Openstrap desarrolla y ofrece software de aplicaciones. Weekly Goal-Based Planner es uno de los principales servicios de Openstrap y ayuda a los usuarios a convertir sus objetivos en planes que puedan ejecutar cada día."
+  },
+  "trustedBy": {
+    "title": "Usado por personas que se preparan para oportunidades en empresas tecnológicas líderes.",
+    "disclaimer": "Los nombres de empresas no implican asociaciones oficiales, respaldos ni relaciones con clientes."
+  },
+  "features": {
+    "eyebrow": "Servicio de gestión de ejecución de objetivos",
+    "title": "Diseñado para ir más allá de simplemente establecer metas.",
+    "description": "Divide tus objetivos semanales en planes diarios y mantente en marcha con recordatorios, bloqueo de objetivos y seguimiento del progreso.",
+    "items": {
+      "weeklyGoalPlanning": {
+        "title": "Planificación basada en objetivos semanales",
+        "desc": "Empieza organizando los objetivos que quieres lograr esta semana y define una dirección clara. En lugar de comenzar con tareas diarias dispersas, puedes planificar alrededor de metas semanales más importantes."
+      },
+      "dailyGoalBreakdown": {
+        "title": "Distribución de planes diarios",
+        "desc": "Divide los objetivos semanales en acciones para cada día, de modo que sepas exactamente qué hacer. Las metas grandes se convierten en planes diarios prácticos y ejecutables."
+      },
+      "copyGoals": {
+        "title": "Copiar objetivos por día",
+        "desc": "Copia rápidamente objetivos semanales a los días que elijas y reduce la entrada repetitiva. Puedes distribuirlos a todos los días, a días seleccionados o incluso llevarlos a la próxima semana."
+      },
+      "timeReminders": {
+        "title": "Hora de ejecución y recordatorios",
+        "desc": "Asigna una hora específica y un recordatorio a cada objetivo diario. Tus objetivos dejan de ser simples elementos de una lista y se convierten en planes dentro de tu día."
+      },
+      "goalLock": {
+        "title": "Bloqueo de eliminación de objetivos",
+        "desc": "Bloquea objetivos importantes para que no puedan eliminarse con demasiada facilidad. Ayuda a proteger los compromisos que hiciste contigo mismo frente a la pereza momentánea o las ganas de rendirte."
+      },
+      "progressTracking": {
+        "title": "Seguimiento del progreso",
+        "desc": "Consulta el estado de ejecución de la semana según los objetivos completados. Ve más allá de simples marcas de verificación y observa de un vistazo cuánto se están llevando a cabo tus objetivos."
+      },
+      "somedayGoals": {
+        "title": "Objetivos y planes para algún día",
+        "desc": "Guarda ideas y objetivos a largo plazo que aún no estás listo para ejecutar. Separa los planes de esta semana de las metas futuras para no perder buenas ideas."
+      },
+      "crossDeviceSync": {
+        "title": "Sincronización automática",
+        "desc": "Gestiona el mismo estado de objetivos en móvil y web. Revisa y actualiza tus metas desde el teléfono mientras te mueves o desde la web mientras trabajas, sin perder continuidad."
+      },
+      "aiGoalPlanning": {
+        "title": "Soporte de planificación con IA",
+        "desc": "Introduce un objetivo vago y recibe ayuda para convertirlo en pasos prácticos y planes diarios realistas. Incluso quienes no están acostumbrados a planificar objetivos pueden empezar de inmediato."
+      }
+    }
+  },
+  "cta": {
+    "title": "Si ya definiste una meta, ahora es momento de ejecutarla.",
+    "description": "Usa Weekly Goal-Based Planner para convertir los objetivos de esta semana en planes diarios que realmente puedas seguir.",
+    "appStoreSmall": "Download on the",
+    "appStore": "App Store",
+    "appStoreAria": "Descargar en App Store",
+    "googlePlaySmall": "GET IT ON",
+    "googlePlay": "Google Play",
+    "googlePlayAria": "Disponible en Google Play"
+  }
+}

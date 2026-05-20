@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": {
+      "planner": "Planificateur",
+      "users": "Utilisateurs",
+      "features": "Fonctionnalités",
+      "download": "Télécharger"
+    },
+    "downloadApp": "Télécharger l’app"
+  },
+  "hero": {
+    "badge": "Un projet principal d’Openstrap",
+    "title": {
+      "line1": "Transformez vos objectifs hebdomadaires",
+      "line2": "en actions quotidiennes."
+    },
+    "description": "Weekly Goal-Based Planner est un service de gestion de l’exécution des objectifs qui va au-delà de la simple définition d’objectifs. Il aide à transformer les objectifs hebdomadaires en plans d’action quotidiens afin de réellement passer à l’action.",
+    "openWebApp": "Ouvrir l’app web",
+    "downloadMobileApp": "Télécharger l’app mobile",
+    "companyDescription": "Openstrap développe et fournit des logiciels applicatifs. Weekly Goal-Based Planner est l’un des principaux services d’Openstrap et aide les utilisateurs à transformer leurs objectifs en plans exécutables chaque jour."
+  },
+  "trustedBy": {
+    "title": "Utilisé par des personnes qui se préparent à des opportunités dans de grandes entreprises technologiques.",
+    "disclaimer": "Les noms d’entreprises n’impliquent aucun partenariat officiel, soutien ou relation client."
+  },
+  "features": {
+    "eyebrow": "Service de gestion de l’exécution des objectifs",
+    "title": "Conçu pour aller au-delà de la simple définition d’objectifs.",
+    "description": "Décomposez vos objectifs hebdomadaires en plans quotidiens, puis gardez le cap grâce aux rappels, au verrouillage des objectifs et au suivi de progression.",
+    "items": {
+      "weeklyGoalPlanning": {
+        "title": "Planification centrée sur les objectifs hebdomadaires",
+        "desc": "Commencez par organiser les objectifs que vous souhaitez atteindre cette semaine et définissez une direction claire. Plutôt que de partir de tâches quotidiennes dispersées, vous pouvez planifier autour d’objectifs hebdomadaires plus importants."
+      },
+      "dailyGoalBreakdown": {
+        "title": "Répartition en plans d’action quotidiens",
+        "desc": "Décomposez les objectifs hebdomadaires en actions pour chaque jour afin de savoir exactement quoi faire. Les grands objectifs deviennent des plans quotidiens concrets et réalisables."
+      },
+      "copyGoals": {
+        "title": "Copie des objectifs par jour",
+        "desc": "Copiez rapidement les objectifs hebdomadaires vers les jours de votre choix et réduisez la saisie répétitive. Vous pouvez les répartir sur tous les jours, certains jours sélectionnés ou même les reporter à la semaine suivante."
+      },
+      "timeReminders": {
+        "title": "Heure d’exécution et rappels",
+        "desc": "Définissez une heure précise et un rappel pour chaque objectif quotidien. Vos objectifs deviennent des plans intégrés à votre journée, et non de simples éléments dans une liste."
+      },
+      "goalLock": {
+        "title": "Verrouillage de suppression des objectifs",
+        "desc": "Verrouillez les objectifs importants afin qu’ils ne puissent pas être supprimés trop facilement. Cela aide à protéger les engagements pris envers vous-même face à la paresse passagère ou à l’envie d’abandonner."
+      },
+      "progressTracking": {
+        "title": "Suivi de progression",
+        "desc": "Consultez l’état d’exécution de votre semaine à partir des objectifs terminés. Allez au-delà des simples cases cochées et voyez en un coup d’œil dans quelle mesure vos objectifs sont réellement exécutés."
+      },
+      "somedayGoals": {
+        "title": "Objectifs et plans pour plus tard",
+        "desc": "Enregistrez les idées et objectifs à long terme que vous n’êtes pas encore prêt à exécuter. Séparez les plans de cette semaine des objectifs futurs afin de ne pas perdre vos bonnes idées."
+      },
+      "crossDeviceSync": {
+        "title": "Synchronisation automatique",
+        "desc": "Gérez le même état d’objectifs sur mobile et sur le web. Consultez et modifiez vos objectifs sur téléphone en déplacement ou sur le web pendant le travail, sans rupture de continuité."
+      },
+      "aiGoalPlanning": {
+        "title": "Aide à la planification par IA",
+        "desc": "Saisissez un objectif vague et obtenez de l’aide pour le transformer en étapes concrètes et en plans quotidiens réalistes. Même les utilisateurs peu habitués à planifier leurs objectifs peuvent commencer immédiatement."
+      }
+    }
+  },
+  "cta": {
+    "title": "Si vous avez défini un objectif, il est temps de passer à l’action.",
+    "description": "Utilisez Weekly Goal-Based Planner pour transformer les objectifs de cette semaine en plans quotidiens réellement réalisables.",
+    "appStoreSmall": "Download on the",
+    "appStore": "App Store",
+    "appStoreAria": "Télécharger sur l’App Store",
+    "googlePlaySmall": "GET IT ON",
+    "googlePlay": "Google Play",
+    "googlePlayAria": "Disponible sur Google Play"
+  }
+}

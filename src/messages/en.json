@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": {
+      "planner": "Planner",
+      "users": "Users",
+      "features": "Features",
+      "download": "Download"
+    },
+    "downloadApp": "Download App"
+  },
+  "hero": {
+    "badge": "A main project by Openstrap",
+    "title": {
+      "line1": "Turn weekly goals",
+      "line2": "into daily execution."
+    },
+    "description": "Weekly Goal-Based Planner is a goal execution management service that goes beyond setting goals. It helps turn weekly goals into day-by-day action plans so users can actually follow through.",
+    "openWebApp": "Open Web App",
+    "downloadMobileApp": "Download Mobile App",
+    "companyDescription": "Openstrap develops and supplies application software. Weekly Goal-Based Planner is one of Openstrap’s main services, helping users turn their goals into plans they can execute every day."
+  },
+  "trustedBy": {
+    "title": "Used by people preparing for opportunities at leading technology companies.",
+    "disclaimer": "Company names do not imply official partnerships, endorsements, or customer relationships."
+  },
+  "features": {
+    "eyebrow": "Goal Execution Management Service",
+    "title": "Designed to go beyond simply setting goals.",
+    "description": "Break weekly goals into daily action plans, then stay on track with time reminders, goal lock, and progress tracking.",
+    "items": {
+      "weeklyGoalPlanning": {
+        "title": "Weekly Goal-Based Planning",
+        "desc": "Start by organizing the goals you want to achieve this week and setting a clear direction. Instead of beginning with scattered daily tasks, you can plan around bigger weekly goals."
+      },
+      "dailyGoalBreakdown": {
+        "title": "Daily Action Plan Distribution",
+        "desc": "Divide weekly goals into day-by-day action items so you know exactly what to do each day. Large goals become practical daily plans you can actually execute."
+      },
+      "copyGoals": {
+        "title": "Copy Goals by Day",
+        "desc": "Quickly copy weekly goals to the days you choose and reduce repetitive input. You can distribute goals to every day, selected days, or even carry them into next week."
+      },
+      "timeReminders": {
+        "title": "Execution Time & Reminders",
+        "desc": "Set a specific time and reminder for each daily goal. Your goals become scheduled action plans inside your day, not just items on a list."
+      },
+      "goalLock": {
+        "title": "Goal Delete Lock",
+        "desc": "Lock important goals so they cannot be deleted too easily. It helps protect the commitments you made to yourself from momentary laziness or the urge to give up."
+      },
+      "progressTracking": {
+        "title": "Progress Tracking",
+        "desc": "Check your weekly execution status based on completed goals. Go beyond simple checkmarks and see at a glance how much your goals are actually being carried out."
+      },
+      "somedayGoals": {
+        "title": "Someday Goals & Plans",
+        "desc": "Save ideas and long-term goals that you are not ready to execute right now. Keep this week’s plans separate from future goals so good ideas do not get lost."
+      },
+      "crossDeviceSync": {
+        "title": "Automatic Sync",
+        "desc": "Manage the same goal status across mobile and web. Check and update your goals on your phone while moving, or on the web while working, without losing continuity."
+      },
+      "aiGoalPlanning": {
+        "title": "AI Goal Planning Support",
+        "desc": "Enter a vague goal and get help turning it into practical steps and realistic daily plans. Even users who are not used to planning goals can get started right away."
+      }
+    }
+  },
+  "cta": {
+    "title": "If you’ve set a goal, now it’s time to execute.",
+    "description": "Use Weekly Goal-Based Planner to turn this week’s goals into daily plans you can actually follow.",
+    "appStoreSmall": "Download on the",
+    "appStore": "App Store",
+    "appStoreAria": "Download on the App Store",
+    "googlePlaySmall": "GET IT ON",
+    "googlePlay": "Google Play",
+    "googlePlayAria": "Get it on Google Play"
+  }
+}

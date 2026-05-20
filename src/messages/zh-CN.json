@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": {
+      "planner": "计划器",
+      "users": "用户",
+      "features": "功能",
+      "download": "下载"
+    },
+    "downloadApp": "下载应用"
+  },
+  "hero": {
+    "badge": "Openstrap 的主要项目",
+    "title": {
+      "line1": "把每周目标",
+      "line2": "变成每日执行。"
+    },
+    "description": "Weekly Goal-Based Planner 不只是帮助你设定目标，而是将每周目标拆分为按天执行的计划，帮助用户真正坚持完成。",
+    "openWebApp": "打开网页版应用",
+    "downloadMobileApp": "下载移动应用",
+    "companyDescription": "Openstrap 开发并提供应用软件。Weekly Goal-Based Planner 是 Openstrap 的主要服务之一，帮助用户把设定好的目标转化为每天都能执行的计划。"
+  },
+  "trustedBy": {
+    "title": "被正在为领先科技公司机会做准备的人们使用。",
+    "disclaimer": "公司名称不代表官方合作、背书或客户关系。"
+  },
+  "features": {
+    "eyebrow": "目标执行管理服务",
+    "title": "不止于设定目标。",
+    "description": "将每周目标拆分为每日执行计划，并通过时间提醒、目标锁定和进度追踪，帮助你坚持到最后。",
+    "items": {
+      "weeklyGoalPlanning": {
+        "title": "以每周目标为中心的计划",
+        "desc": "先整理本周想要达成的目标，明确一周的方向。你可以从更大的每周目标开始规划，而不是一开始就被零散的每日任务分散注意力。"
+      },
+      "dailyGoalBreakdown": {
+        "title": "每日执行计划分配",
+        "desc": "将每周目标拆分为按天执行的项目，让你清楚知道每天该做什么。把大的目标转化为真正可以执行的每日计划。"
+      },
+      "copyGoals": {
+        "title": "按星期复制目标",
+        "desc": "快速将每周目标复制到指定日期，减少重复输入。你可以分配到所有日期、选定日期，或延续到下周计划中。"
+      },
+      "timeReminders": {
+        "title": "执行时间与提醒",
+        "desc": "为每个每日目标设置具体执行时间和提醒。目标不再只是清单上的项目，而是被安排进一天日程中的执行计划。"
+      },
+      "goalLock": {
+        "title": "目标删除锁定",
+        "desc": "重要目标可以被锁定，避免被轻易删除。它帮助你保护自己做出的承诺，减少因为一时懒惰或想放弃而删除目标的情况。"
+      },
+      "progressTracking": {
+        "title": "进度追踪",
+        "desc": "根据已完成的目标查看本周执行状态。不只是简单打勾，而是可以一眼看出目标实际执行到了什么程度。"
+      },
+      "somedayGoals": {
+        "title": "将来目标与计划",
+        "desc": "保存现在还不准备执行的想法和长期目标。将本周计划与未来目标分开管理，避免好的想法被遗忘。"
+      },
+      "crossDeviceSync": {
+        "title": "自动同步",
+        "desc": "在移动端和网页端持续管理同一套目标状态。移动时用手机查看，工作时在网页上修改，目标管理不会中断。"
+      },
+      "aiGoalPlanning": {
+        "title": "AI 目标规划支持",
+        "desc": "输入一个模糊目标后，AI 可以帮助你将其具体化为执行方法和现实可行的每日计划。即使不擅长规划目标，也能马上开始。"
+      }
+    }
+  },
+  "cta": {
+    "title": "既然设定了目标，现在就该执行了。",
+    "description": "使用 Weekly Goal-Based Planner，把本周目标变成每天都能执行的计划。",
+    "appStoreSmall": "Download on the",
+    "appStore": "App Store",
+    "appStoreAria": "在 App Store 下载",
+    "googlePlaySmall": "GET IT ON",
+    "googlePlay": "Google Play",
+    "googlePlayAria": "在 Google Play 获取"
+  }
+}

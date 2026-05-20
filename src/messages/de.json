@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": {
+      "planner": "Planer",
+      "users": "Nutzer",
+      "features": "Funktionen",
+      "download": "Download"
+    },
+    "downloadApp": "App herunterladen"
+  },
+  "hero": {
+    "badge": "Ein Hauptprojekt von Openstrap",
+    "title": {
+      "line1": "Verwandle Wochenziele",
+      "line2": "in tägliche Umsetzung."
+    },
+    "description": "Weekly Goal-Based Planner ist ein Service zur Zielumsetzung, der über das bloße Setzen von Zielen hinausgeht. Er hilft dabei, Wochenziele in tägliche Aktionspläne zu verwandeln, damit Nutzer sie tatsächlich umsetzen können.",
+    "openWebApp": "Web-App öffnen",
+    "downloadMobileApp": "Mobile App herunterladen",
+    "companyDescription": "Openstrap entwickelt und liefert Anwendungssoftware. Weekly Goal-Based Planner ist einer der wichtigsten Services von Openstrap und hilft Nutzern, ihre Ziele in Pläne zu verwandeln, die sie jeden Tag umsetzen können."
+  },
+  "trustedBy": {
+    "title": "Genutzt von Menschen, die sich auf Chancen bei führenden Technologieunternehmen vorbereiten.",
+    "disclaimer": "Firmennamen bedeuten keine offiziellen Partnerschaften, Empfehlungen oder Kundenbeziehungen."
+  },
+  "features": {
+    "eyebrow": "Service für Zielumsetzung",
+    "title": "Entwickelt, um über das reine Setzen von Zielen hinauszugehen.",
+    "description": "Teile Wochenziele in tägliche Aktionspläne auf und bleibe mit Erinnerungen, Ziel-Sperre und Fortschrittsverfolgung konsequent dran.",
+    "items": {
+      "weeklyGoalPlanning": {
+        "title": "Planung rund um Wochenziele",
+        "desc": "Beginne damit, die Ziele zu ordnen, die du diese Woche erreichen möchtest, und lege eine klare Richtung fest. Statt mit verstreuten Tagesaufgaben zu starten, planst du auf Basis größerer Wochenziele."
+      },
+      "dailyGoalBreakdown": {
+        "title": "Verteilung in tägliche Aktionspläne",
+        "desc": "Teile Wochenziele in Aufgaben für einzelne Tage auf, damit klar ist, was jeden Tag zu tun ist. Große Ziele werden zu praktischen Tagesplänen, die tatsächlich umsetzbar sind."
+      },
+      "copyGoals": {
+        "title": "Ziele nach Wochentag kopieren",
+        "desc": "Kopiere Wochenziele schnell auf ausgewählte Tage und reduziere wiederholte Eingaben. Du kannst Ziele auf alle Tage, bestimmte Tage oder sogar in die nächste Woche übertragen."
+      },
+      "timeReminders": {
+        "title": "Ausführungszeit und Erinnerungen",
+        "desc": "Lege für jedes Tagesziel eine konkrete Zeit und Erinnerung fest. Ziele werden dadurch nicht nur zu Listeneinträgen, sondern zu geplanten Aktionen in deinem Tagesablauf."
+      },
+      "goalLock": {
+        "title": "Löschsperre für Ziele",
+        "desc": "Wichtige Ziele können gesperrt werden, damit sie nicht zu leicht gelöscht werden. So schützt du die Verpflichtungen, die du dir selbst gegeben hast, vor kurzfristiger Trägheit oder dem Wunsch aufzugeben."
+      },
+      "progressTracking": {
+        "title": "Fortschrittsverfolgung",
+        "desc": "Überprüfe den Umsetzungsstand deiner Woche anhand abgeschlossener Ziele. Gehe über einfache Häkchen hinaus und sieh auf einen Blick, wie viel deiner Ziele tatsächlich umgesetzt wird."
+      },
+      "somedayGoals": {
+        "title": "Someday Goals & Plans",
+        "desc": "Speichere Ideen und langfristige Ziele, die du noch nicht sofort umsetzen möchtest. Trenne die Pläne dieser Woche von zukünftigen Zielen, damit gute Ideen nicht verloren gehen."
+      },
+      "crossDeviceSync": {
+        "title": "Automatische Synchronisierung",
+        "desc": "Verwalte denselben Zielstatus auf Mobilgerät und Web. Prüfe und bearbeite deine Ziele unterwegs am Smartphone oder während der Arbeit im Web, ohne den Zusammenhang zu verlieren."
+      },
+      "aiGoalPlanning": {
+        "title": "KI-Unterstützung bei der Zielplanung",
+        "desc": "Gib ein vages Ziel ein und erhalte Hilfe dabei, es in konkrete Schritte und realistische Tagespläne zu verwandeln. Auch Nutzer, die nicht an Zielplanung gewöhnt sind, können sofort starten."
+      }
+    }
+  },
+  "cta": {
+    "title": "Wenn du ein Ziel gesetzt hast, ist jetzt die Umsetzung dran.",
+    "description": "Nutze Weekly Goal-Based Planner, um die Ziele dieser Woche in tägliche Pläne zu verwandeln, denen du wirklich folgen kannst.",
+    "appStoreSmall": "Download on the",
+    "appStore": "App Store",
+    "appStoreAria": "Im App Store herunterladen",
+    "googlePlaySmall": "GET IT ON",
+    "googlePlay": "Google Play",
+    "googlePlayAria": "Bei Google Play herunterladen"
+  }
+}
