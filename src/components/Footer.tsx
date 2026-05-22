@@ -18,7 +18,7 @@ export default function Footer() {
             <span className='text-neutral-200'>JANG Sanggu</span>
           </p>
 
-          <p>Copyright 2026 Openstrap Inc. All rights reserved.</p>
+          <p>C opyright 2026 Openstrap Inc. All rights reserved.</p>
         </div>
       </div>
     </footer>
