@@ -14,10 +14,10 @@
       "line1": "주간 목표를",
       "line2": "매일의 실행으로."
     },
-    "description": "Weekly Goal-Based Planner는 목표를 세우는 데서 끝나지 않고, 주간 목표를 요일별 실행 계획으로 나누어 실제로 실천할 수 있도록 돕는 목표 실행 관리 서비스입니다.",
+    "description": "Weekboard는 목표를 세우는 데서 끝나지 않고, 주간 목표를 요일별 실행 계획으로 나누어 실제로 실천할 수 있도록 돕는 목표 실행 관리 서비스입니다.",
     "openWebApp": "웹 앱 열기",
     "downloadMobileApp": "모바일 앱 다운로드",
-    "companyDescription": "Openstrap은 애플리케이션 소프트웨어를 개발하고 공급합니다. Weekly Goal-Based Planner는 사용자가 세운 목표를 매일 실행 가능한 계획으로 바꾸도록 돕는 Openstrap의 주요 서비스입니다."
+    "companyDescription": "Openstrap은 애플리케이션 소프트웨어를 개발하고 공급합니다. Weekboard는 사용자가 세운 목표를 매일 실행 가능한 계획으로 바꾸도록 돕는 Openstrap의 주요 서비스입니다."
   },
   "trustedBy": {
     "title": "주요 기술 기업을 목표로 준비하는 사람들이 사용하고 있습니다.",
@@ -68,7 +68,7 @@
   },
   "cta": {
     "title": "목표를 세웠다면, 이제 실행할 차례입니다.",
-    "description": "Weekly Goal-Based Planner로 이번 주 목표를 매일 실천 가능한 계획으로 바꿔보세요.",
+    "description": "Weekboard로 이번 주 목표를 매일 실천 가능한 계획으로 바꿔보세요.",
     "appStoreSmall": "Download on the",
     "appStore": "App Store",
     "appStoreAria": "App Store에서 다운로드",

@@ -1,3 +1,5 @@
+// Header.tsx
+
 'use client';
 
 import { useTranslations } from 'next-intl';

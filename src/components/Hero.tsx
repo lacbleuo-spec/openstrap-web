@@ -93,9 +93,7 @@ export default function Hero() {
                 <section className='rounded-[20px] bg-white px-4 py-4'>
                   <div className='flex items-center justify-between'>
                     <div>
-                      <h3 className='text-[13px] font-bold'>
-                        Someday Goals & Plans
-                      </h3>
+                      <h3 className='text-[13px] font-bold'>Someday Goals</h3>
                       <p className='mt-1 text-[9px] text-gray-500'>3 goals</p>
                     </div>
 
@@ -183,9 +181,7 @@ export default function Hero() {
                 <section className='rounded-[20px] bg-white px-4 py-4'>
                   <div className='flex items-center justify-between'>
                     <div>
-                      <h3 className='text-[13px] font-bold'>
-                        Weekly Goals & Plans
-                      </h3>
+                      <h3 className='text-[13px] font-bold'>Weekly Goals</h3>
                       <p className='mt-1 text-[9px] text-gray-500'>19 goals</p>
                     </div>
 

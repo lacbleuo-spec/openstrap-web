@@ -14,10 +14,10 @@
       "line1": "Turn weekly goals",
       "line2": "into daily execution."
     },
-    "description": "Weekly Goal-Based Planner is a goal execution management service that goes beyond setting goals. It helps turn weekly goals into day-by-day action plans so users can actually follow through.",
+    "description": "Weekboard is a goal execution management service that goes beyond setting goals. It helps turn weekly goals into day-by-day action plans so users can actually follow through.",
     "openWebApp": "Open Web App",
     "downloadMobileApp": "Download Mobile App",
-    "companyDescription": "Openstrap develops and supplies application software. Weekly Goal-Based Planner is one of Openstrap’s main services, helping users turn their goals into plans they can execute every day."
+    "companyDescription": "Openstrap develops and supplies application software. Weekboard is one of Openstrap’s main services, helping users turn their goals into plans they can execute every day."
   },
   "trustedBy": {
     "title": "Used by people preparing for opportunities at leading technology companies.",
@@ -68,7 +68,7 @@
   },
   "cta": {
     "title": "If you’ve set a goal, now it’s time to execute.",
-    "description": "Use Weekly Goal-Based Planner to turn this week’s goals into daily plans you can actually follow.",
+    "description": "Use Weekboard to turn this week’s goals into daily plans you can actually follow.",
     "appStoreSmall": "Download on the",
     "appStore": "App Store",
     "appStoreAria": "Download on the App Store",
