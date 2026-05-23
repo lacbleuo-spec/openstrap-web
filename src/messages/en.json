@@ -21,7 +21,7 @@
     "description": "Weekboard is a goal execution management service that goes beyond setting goals. It helps turn weekly goals into day-by-day action plans so users can actually follow through.",
     "openWebApp": "Open Web App",
     "downloadMobileApp": "Download Mobile App",
-    "companyDescription": "Openstrap develops and supplies application software. Weekboard is one of Openstrap’s main services, helping users turn their goals into plans they can execute every day."
+    "companyDescription": "Openstrap connect OpenAI and diverse technologies to build user-centered applications. Weekboard is one of Openstrap’s main services, helping users turn their goals into plans they can execute every day."
   },
   "trustedBy": {
     "title": "Used by people preparing for opportunities at leading technology companies.",
@@ -81,7 +81,6 @@
     "googlePlayAria": "Get it on Google Play"
   },
   "footer": {
-    "tagline": "Connecting open technologies",
     "description": "We connect OpenAI and diverse technologies\nto build user-centered applications.",
     "ceo": "CEO",
     "copyright": "Copyright 2026 Openstrap Inc. All rights reserved."

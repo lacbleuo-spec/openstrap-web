@@ -1,3 +1,5 @@
+// sitemap.ts
+
 import { MetadataRoute } from 'next';
 
 const baseUrl = 'https://www.openstrap.net';

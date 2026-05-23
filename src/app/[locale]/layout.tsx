@@ -17,14 +17,31 @@ export async function generateMetadata({
     notFound();
   }
 
-  const t = await getTranslations({ locale, namespace: 'SEO' });
+  const t = await getTranslations({
+    locale,
+    namespace: 'SEO',
+  });
+
   const ogImageUrl = `/${locale}/opengraph-image`;
 
   return {
     metadataBase: new URL(baseUrl),
 
-    title: t('title'),
+    title: {
+      default: t('title'),
+      template: '%s | Openstrap',
+    },
+
     description: t('description'),
+
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+      },
+    },
 
     verification: {
       google: 'PLaGPERj3I88KncqTyslUXakKW1HNQ8Cpp1RRiMIZHo',
@@ -43,6 +60,9 @@ export async function generateMetadata({
       url: `${baseUrl}/${locale}`,
       siteName: 'Openstrap',
       type: 'website',
+
+      locale,
+
       images: [
         {
           url: ogImageUrl,

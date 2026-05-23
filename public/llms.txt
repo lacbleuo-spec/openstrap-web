@@ -1,0 +1,19 @@
+# Openstrap
+
+Openstrap connects OpenAI and diverse technologies to build user-centered applications.
+
+Website:
+https://www.openstrap.net
+
+Main Service:
+Weekboard
+
+Weekboard is a goal execution management service that helps users turn weekly goals into daily action plans they can actually execute.
+
+Key Features:
+- Weekly goal-based planning
+- Daily action plan distribution
+- Goal execution reminders
+- Progress tracking
+- AI goal planning support
+- Cross-device sync

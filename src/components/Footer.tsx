@@ -11,8 +11,6 @@ export default function Footer() {
         <div>
           <p className='text-lg font-bold tracking-[-0.03em]'>Openstrap Inc.</p>
 
-          <p className='mt-2 text-sm text-neutral-300'>{t('tagline')}</p>
-
           <p className='mt-3 whitespace-pre-line text-sm leading-6 text-neutral-400'>
             {t('description')}
           </p>
@@ -20,11 +18,13 @@ export default function Footer() {
 
         <div className='text-sm leading-7 text-neutral-300 md:text-right'>
           <p>
-            <span className='text-neutral-300'>{t('ceo')}</span>{' '}
-            <span className='text-neutral-300'>JANG Sanggu</span>
+            <span className='text-neutral-400'>{t('ceo')}</span>{' '}
+            <span className='text-neutral-400'>JANG Sanggu</span>
           </p>
 
-          <p>{t('copyright')}</p>
+          <p>
+            <span className='text-neutral-400'>{t('copyright')}</span>
+          </p>
         </div>
       </div>
     </footer>
