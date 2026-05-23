@@ -20,8 +20,15 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'SEO' });
 
   return {
+    metadataBase: new URL(baseUrl),
+
     title: t('title'),
     description: t('description'),
+
+    verification: {
+      google: 'PLaGPERj3I88KncqTyslUXakKW1HNQ8Cpp1RRiMIZHo',
+    },
+
     alternates: {
       canonical: `${baseUrl}/${locale}`,
       languages: Object.fromEntries(
