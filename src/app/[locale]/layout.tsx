@@ -18,6 +18,7 @@ export async function generateMetadata({
   }
 
   const t = await getTranslations({ locale, namespace: 'SEO' });
+  const ogImageUrl = `/${locale}/opengraph-image`;
 
   return {
     metadataBase: new URL(baseUrl),
@@ -35,17 +36,28 @@ export async function generateMetadata({
         routing.locales.map((locale) => [locale, `${baseUrl}/${locale}`]),
       ),
     },
+
     openGraph: {
       title: t('title'),
       description: t('description'),
       url: `${baseUrl}/${locale}`,
       siteName: 'Openstrap',
       type: 'website',
+      images: [
+        {
+          url: ogImageUrl,
+          width: 1200,
+          height: 630,
+          alt: 'Openstrap',
+        },
+      ],
     },
+
     twitter: {
       card: 'summary_large_image',
       title: t('title'),
       description: t('description'),
+      images: [ogImageUrl],
     },
   };
 }
