@@ -16,15 +16,15 @@ import {
 } from 'lucide-react';
 
 const features = [
+  { key: 'aiGoalPlanning', Icon: Sparkles },
   { key: 'weeklyGoalPlanning', Icon: CalendarDays },
   { key: 'dailyGoalBreakdown', Icon: ListChecks },
   { key: 'copyGoals', Icon: Copy },
   { key: 'timeReminders', Icon: Bell },
   { key: 'goalLock', Icon: Lock },
   { key: 'progressTracking', Icon: ChartNoAxesColumnIncreasing },
-  { key: 'somedayGoals', Icon: Archive },
   { key: 'crossDeviceSync', Icon: RefreshCw },
-  { key: 'aiGoalPlanning', Icon: Sparkles },
+  { key: 'somedayGoals', Icon: Archive },
 ] as const;
 
 export default function Features() {

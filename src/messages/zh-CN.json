@@ -1,4 +1,8 @@
 {
+  "SEO": {
+    "title": "Openstrap, Connecting open technologies",
+    "description": "我们连接 OpenAI 与多种技术， 构建以用户为中心的应用程序。"
+  },
   "header": {
     "nav": {
       "planner": "计划器",

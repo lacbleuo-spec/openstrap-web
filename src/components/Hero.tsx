@@ -62,14 +62,11 @@ export default function Hero() {
       </div>
 
       <div className='flex justify-center md:justify-end'>
-        <a
-          href={WEB_APP_URL}
-          target='_blank'
-          rel='noreferrer'
-          aria-label='Open Weekly Goal-Based Planner web app'
-          className='group block'
+        <div
+          aria-label='Weekly Goal-Based Planner app preview'
+          className='block'
         >
-          <div className='relative h-[580px] w-[290px] overflow-hidden rounded-[2.6rem] border-[8px] border-black bg-[#f2f2f7] shadow-2xl transition-transform duration-300 group-hover:-translate-y-1'>
+          <div className='relative h-[580px] w-[290px] overflow-hidden rounded-[2.6rem] border-[8px] border-black bg-[#f2f2f7] shadow-2xl'>
             <div className='absolute left-1/2 top-3 z-10 h-5 w-20 -translate-x-1/2 rounded-full bg-black' />
 
             <div className='h-full overflow-hidden px-3.5 pt-[52px]'>
@@ -109,6 +106,7 @@ export default function Hero() {
                   <div className='flex items-center justify-between'>
                     <div className='flex items-center gap-1'>
                       <h3 className='text-[13px] font-bold'>May 18 - May 24</h3>
+
                       <ChevronDown
                         size={11}
                         strokeWidth={2.4}
@@ -127,6 +125,7 @@ export default function Hero() {
                         <h4 className='text-[13px] font-bold'>
                           Overall Progress
                         </h4>
+
                         <ChevronDown
                           size={11}
                           strokeWidth={2.4}
@@ -209,11 +208,13 @@ export default function Hero() {
                           strokeWidth={2.2}
                           className='shrink-0 text-gray-400'
                         />
+
                         <Menu
                           size={12}
                           strokeWidth={2.2}
                           className='shrink-0 text-gray-400'
                         />
+
                         <Trash2
                           size={12}
                           strokeWidth={2.2}
@@ -228,7 +229,7 @@ export default function Hero() {
 
             <div className='pointer-events-none absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-[#f2f2f7] to-transparent' />
           </div>
-        </a>
+        </div>
       </div>
     </section>
   );

@@ -1,4 +1,8 @@
 {
+  "SEO": {
+    "title": "Openstrap, Connecting open technologies",
+    "description": "Nous connectons OpenAI à diverses technologies pour créer des applications centrées sur l’utilisateur."
+  },
   "header": {
     "nav": {
       "planner": "Planificateur",
