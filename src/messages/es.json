@@ -75,5 +75,11 @@
     "googlePlaySmall": "GET IT ON",
     "googlePlay": "Google Play",
     "googlePlayAria": "Disponible en Google Play"
+  },
+  "footer": {
+    "tagline": "Connecting open technologies",
+    "description": "Conectamos OpenAI con diversas tecnologías\npara crear aplicaciones centradas en el usuario.",
+    "ceo": "CEO",
+    "copyright": "Copyright 2026 Openstrap Inc. All rights reserved."
   }
 }

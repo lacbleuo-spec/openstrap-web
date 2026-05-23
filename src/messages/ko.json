@@ -75,5 +75,11 @@
     "googlePlaySmall": "GET IT ON",
     "googlePlay": "Google Play",
     "googlePlayAria": "Google Play에서 받기"
+  },
+  "footer": {
+    "tagline": "Connecting open technologies",
+    "description": "OpenAI와 다양한 기술을 연결해\n사용자 중심의 애플리케이션을 개발합니다.",
+    "ceo": "CEO",
+    "copyright": "Copyright 2026 Openstrap Inc. All rights reserved."
   }
 }
