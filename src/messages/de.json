@@ -66,7 +66,7 @@
       },
       "aiGoalPlanning": {
         "title": "KI-Unterstützung bei der Zielplanung",
-        "desc": "Gib ein vages Ziel ein und erhalte Hilfe dabei, es in konkrete Schritte und realistische Tagespläne zu verwandeln. Auch Nutzer, die nicht an Zielplanung gewöhnt sind, können sofort starten."
+        "desc": "Gib ein vages Ziel ein, und Weekboard hilft dir dabei, daraus ein realistisches Wochenziel zu machen. Auch Nutzer, die nicht daran gewöhnt sind, Ziele zu setzen, können sofort loslegen."
       }
     }
   },

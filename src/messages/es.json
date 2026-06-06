@@ -66,7 +66,7 @@
       },
       "aiGoalPlanning": {
         "title": "Soporte de planificación con IA",
-        "desc": "Introduce un objetivo vago y recibe ayuda para convertirlo en pasos prácticos y planes diarios realistas. Incluso quienes no están acostumbrados a planificar objetivos pueden empezar de inmediato."
+        "desc": "Introduce un objetivo poco definido y Weekboard te ayudará a convertirlo en una meta semanal realista. Incluso quienes no están acostumbrados a establecer objetivos pueden empezar de inmediato."
       }
     }
   },

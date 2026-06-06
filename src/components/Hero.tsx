@@ -12,7 +12,7 @@ import {
   ChevronUp,
 } from 'lucide-react';
 
-const WEB_APP_URL = 'https://www.weeklygoalplanner.com/';
+const WEB_APP_URL = 'https://www.weekboard.net/';
 
 export default function Hero() {
   const t = useTranslations('hero');

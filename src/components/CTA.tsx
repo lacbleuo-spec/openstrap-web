@@ -4,8 +4,8 @@
 
 import { useTranslations } from 'next-intl';
 
-const APP_STORE_URL = '#';
-const GOOGLE_PLAY_URL = '#';
+const APP_STORE_URL = 'https://apps.apple.com/app/id6775522975';
+const GOOGLE_PLAY_URL = null;
 
 export default function CTA() {
   const t = useTranslations('cta');
