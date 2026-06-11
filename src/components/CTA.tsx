@@ -5,7 +5,8 @@
 import { useTranslations } from 'next-intl';
 
 const APP_STORE_URL = 'https://apps.apple.com/app/id6775522975';
-const GOOGLE_PLAY_URL = '#';
+const GOOGLE_PLAY_URL =
+  'https://play.google.com/store/apps/details?id=com.openstrap.weekboard&pcampaignid=web_share';
 
 export default function CTA() {
   const t = useTranslations('cta');
